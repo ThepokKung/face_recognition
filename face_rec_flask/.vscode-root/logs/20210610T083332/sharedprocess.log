@@ -1,0 +1,20 @@
+[2021-06-10 08:33:42.264] [sharedprocess] [info] Deleted from disk felixfbecker.php-intellisense /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14
+[2021-06-10 08:34:19.802] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-06-10 08:35:55.741] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-06-10 08:36:01.034] [sharedprocess] [info] Downloaded extension: ms-python.python /home/chayut/Downloads/Git/face_recognition_attend/Testing/face_recognition/face_rec_flask/.vscode-root/CachedExtensionVSIXs/ms-python.python-2021.5.842923320
+[2021-06-10 08:36:05.481] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.afc5bdac-6e42-4be6-8515-16b4fd9e973b: ms-python.python
+[2021-06-10 08:36:05.552] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-python.python-2021.5.842923320
+[2021-06-10 08:36:05.558] [sharedprocess] [info] Installation completed. ms-python.python
+[2021-06-10 08:36:06.172] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2021-06-10 08:36:06.587] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2021-06-10 08:36:21.747] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/chayut/Downloads/Git/face_recognition_attend/Testing/face_recognition/face_rec_flask/.vscode-root/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.6.1
+[2021-06-10 08:36:24.094] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/chayut/Downloads/Git/face_recognition_attend/Testing/face_recognition/face_rec_flask/.vscode-root/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.6.832593372
+[2021-06-10 08:36:24.958] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.bfc5e762-5491-409f-81be-459cdc236273: ms-python.vscode-pylance
+[2021-06-10 08:36:25.012] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-python.vscode-pylance-2021.6.1
+[2021-06-10 08:36:25.015] [sharedprocess] [info] Installation completed. ms-python.vscode-pylance
+[2021-06-10 08:36:25.127] [sharedprocess] [info] Extensions installed successfully: ms-python.vscode-pylance
+[2021-06-10 08:36:25.653] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.771b5dcd-e32a-4ff9-99bf-3a400983f362: ms-toolsai.jupyter
+[2021-06-10 08:36:25.702] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372
+[2021-06-10 08:36:25.706] [sharedprocess] [info] Installation completed. ms-toolsai.jupyter
+[2021-06-10 08:36:25.741] [sharedprocess] [info] Extensions installed successfully: ms-toolsai.jupyter
+[2021-06-10 08:36:25.752] [sharedprocess] [info] Extensions installed successfully: ms-python.python

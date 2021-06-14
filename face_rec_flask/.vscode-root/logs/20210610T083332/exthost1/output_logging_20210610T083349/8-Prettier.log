@@ -1,0 +1,155 @@
+["INFO" - 8:33:49 AM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 8:33:49 AM] Extension Version: 6.4.0.
+["INFO" - 8:43:08 AM] Formatting /home/chayut/Downloads/Git/face_recognition_attend/Testing/face_recognition/face_rec_flask/index.html
+["INFO" - 8:43:08 AM] Using ignore file (if present) at /home/chayut/Downloads/Git/face_recognition_attend/Testing/face_recognition/face_rec_flask/.prettierignore
+["INFO" - 8:43:08 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 8:43:08 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:43:08 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/chayut/Downloads/Git/face_recognition_attend/Testing/face_recognition/face_rec_flask/index.html",
+  "parser": "html"
+}
+["INFO" - 8:43:08 AM] Formatting completed in 488.500278ms.
+["INFO" - 8:43:55 AM] Formatting /home/chayut/Downloads/Git/face_recognition_attend/Testing/face_recognition/face_rec_flask/index.html
+["INFO" - 8:43:55 AM] Using ignore file (if present) at /home/chayut/Downloads/Git/face_recognition_attend/Testing/face_recognition/face_rec_flask/.prettierignore
+["INFO" - 8:43:55 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 8:43:55 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:43:55 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/chayut/Downloads/Git/face_recognition_attend/Testing/face_recognition/face_rec_flask/index.html",
+  "parser": "html"
+}
+["INFO" - 8:43:55 AM] Formatting completed in 159.32205ms.
+["INFO" - 8:43:59 AM] Formatting /home/chayut/Downloads/Git/face_recognition_attend/Testing/face_recognition/face_rec_flask/index.html
+["INFO" - 8:43:59 AM] Using ignore file (if present) at /home/chayut/Downloads/Git/face_recognition_attend/Testing/face_recognition/face_rec_flask/.prettierignore
+["INFO" - 8:43:59 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 8:43:59 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:43:59 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/chayut/Downloads/Git/face_recognition_attend/Testing/face_recognition/face_rec_flask/index.html",
+  "parser": "html"
+}
+["INFO" - 8:43:59 AM] Formatting completed in 197.882997ms.
+["INFO" - 8:47:21 AM] Formatting /home/chayut/Downloads/Git/face_recognition_attend/Testing/face_recognition/face_rec_flask/index.html
+["INFO" - 8:47:21 AM] Using ignore file (if present) at /home/chayut/Downloads/Git/face_recognition_attend/Testing/face_recognition/face_rec_flask/.prettierignore
+["INFO" - 8:47:21 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 8:47:21 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:47:21 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/chayut/Downloads/Git/face_recognition_attend/Testing/face_recognition/face_rec_flask/index.html",
+  "parser": "html"
+}
+["ERROR" - 8:47:21 AM] Error formatting document.
+["ERROR" - 8:47:21 AM] Unexpected closing tag "p". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (8:65)
+   6 | </head>
+   7 | <body>
+>  8 | <p><h1 align="center">Python Flask Upload and display image</h1></p>
+     |                                                                 ^^^^
+   9 | <div class="container">
+  10 | <div class="row">
+  11 |     <h2>Select a file to upload</h2>
+SyntaxError: Unexpected closing tag "p". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (8:65)
+   6 | </head>
+   7 | <body>
+>  8 | <p><h1 align="center">Python Flask Upload and display image</h1></p>
+     |                                                                 ^^^^
+   9 | <div class="container">
+  10 | <div class="row">
+  11 |     <h2>Select a file to upload</h2>
+    at U (/root/.vscode/extensions/esbenp.prettier-vscode-6.4.0/node_modules/prettier/parser-html.js:40:2776)
+    at Sn (/root/.vscode/extensions/esbenp.prettier-vscode-6.4.0/node_modules/prettier/parser-html.js:111:2300)
+    at yn (/root/.vscode/extensions/esbenp.prettier-vscode-6.4.0/node_modules/prettier/parser-html.js:111:3787)
+    at Object.parse (/root/.vscode/extensions/esbenp.prettier-vscode-6.4.0/node_modules/prettier/parser-html.js:111:4489)
+    at Object.parse$a [as parse] (/root/.vscode/extensions/esbenp.prettier-vscode-6.4.0/node_modules/prettier/index.js:14892:19)
+    at coreFormat (/root/.vscode/extensions/esbenp.prettier-vscode-6.4.0/node_modules/prettier/index.js:16425:16)
+    at formatWithCursor$1 (/root/.vscode/extensions/esbenp.prettier-vscode-6.4.0/node_modules/prettier/index.js:16665:14)
+    at /root/.vscode/extensions/esbenp.prettier-vscode-6.4.0/node_modules/prettier/index.js:60922:12
+    at Object.Success [as format] (/root/.vscode/extensions/esbenp.prettier-vscode-6.4.0/node_modules/prettier/index.js:60942:12)
+    at t.default.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.4.0/src/PrettierEditService.ts:485:45)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.4.0/dist/extension.js:1:9119)
+["INFO" - 8:47:22 AM] Formatting completed in 168.076892ms.

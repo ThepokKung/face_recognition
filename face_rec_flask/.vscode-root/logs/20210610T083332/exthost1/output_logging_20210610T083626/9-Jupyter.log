@@ -1,0 +1,55 @@
+Info 2021-06-10 08:36:26: ZMQ install verified.
+Info 2021-06-10 08:36:26: id is 72bbdec5-e4e7-4073-bb66-34495b0a4f7b
+Error 2021-06-10 08:36:26: Jupyter Extension (Error in Failed to update settings.json, method:fixSettingsFile): EntryNotFound (FileSystemError): Unable to read file '/root/.config/Code/User/settings.json' (Error: Unable to resolve non-existing file '/root/.config/Code/User/settings.json')
+    at _handleError (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:156171)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at m.readFile (/root/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/out/client/extension.js:90:487442)
+    at g.fixSettingsFile (/root/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/out/client/extension.js:52:293565)
+    at async Promise.all (index 0)
+    at g.updateSettings (/root/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/out/client/extension.js:52:295285) {
+  code: 'FileNotFound'
+}
+Error 2021-06-10 08:36:26: Jupyter Extension (Error in Failed to update settings.json, method:fixSettingsFile): EntryNotFound (FileSystemError): Unable to read file '/home/chayut/Downloads/Git/face_recognition_attend/Testing/face_recognition/face_rec_flask/.vscode/settings.json' (Error: Unable to resolve non-existing file '/home/chayut/Downloads/Git/face_recognition_attend/Testing/face_recognition/face_rec_flask/.vscode/settings.json')
+    at _handleError (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:156171)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at m.readFile (/root/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/out/client/extension.js:90:487442)
+    at g.fixSettingsFile (/root/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/out/client/extension.js:52:293565)
+    at async Promise.all (index 1)
+    at g.updateSettings (/root/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/out/client/extension.js:52:295285) {
+  code: 'FileNotFound'
+}
+Info 2021-06-10 08:36:26: Executing script head -c 1024 /dev/urandom to generate random bytes
+Info 2021-06-10 08:36:26: Generated random key of length 2048
+Info 2021-06-10 08:36:26: Successfully generated keyfile with OS PRNG
+Info 2021-06-10 08:36:31: Search all interpreters /usr/bin/python, /usr/bin/python3
+Info 2021-06-10 08:36:31: Cached data exists getEnvironmentVariables, <No Resource>
+Info 2021-06-10 08:36:31: Cached data exists getEnvironmentVariables, <No Resource>
+Info 2021-06-10 08:36:31: Cached data exists getEnvironmentVariables, <No Resource>
+Info 2021-06-10 08:36:31: Process Execution: > /usr/bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py pip list
+> /usr/bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py pip list
+Info 2021-06-10 08:36:31: Process Execution: > /usr/bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py pip list
+> /usr/bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py pip list
+Info 2021-06-10 08:36:31: Process Execution: > /usr/bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+> /usr/bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+Info 2021-06-10 08:36:31: Process Execution: > /usr/bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+> /usr/bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+Info 2021-06-10 08:36:31: Process Execution: > /usr/bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> /usr/bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+Info 2021-06-10 08:36:31: Process Execution: > /usr/bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> /usr/bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+Info 2021-06-10 08:37:15: Cached data exists getEnvironmentVariables, <No Resource>
+Info 2021-06-10 08:37:15: Process Execution: > /usr/bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py pip list
+> /usr/bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py pip list
+Info 2021-06-10 08:37:15: Process Execution: > /usr/bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py pip list
+> /usr/bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py pip list
+Info 2021-06-10 08:59:37: Shutting down notebooks for df460aae-c30b-4942-8d14-e82012076a42
+Info 2021-06-10 08:59:37: Disposing HostJupyterExecution 11ddd965-adc8-4185-8ed9-a60df3006f6f
+Info 2021-06-10 08:59:37: Disposing super HostJupyterExecution 11ddd965-adc8-4185-8ed9-a60df3006f6f
+Info 2021-06-10 08:59:37: Disposing HostJupyterExecution 11ddd965-adc8-4185-8ed9-a60df3006f6f
+Info 2021-06-10 08:59:37: Finished disposing HostJupyterExecution  11ddd965-adc8-4185-8ed9-a60df3006f6f
+Info 2021-06-10 08:59:37: Disposing HostJupyterExecution 11ddd965-adc8-4185-8ed9-a60df3006f6f
+Info 2021-06-10 08:59:37: Finished disposing HostJupyterExecution  11ddd965-adc8-4185-8ed9-a60df3006f6f
+Info 2021-06-10 08:59:37: Getting live share API during dispose HostJupyterExecution 11ddd965-adc8-4185-8ed9-a60df3006f6f
+Info 2021-06-10 08:59:37: Detaching HostJupyterExecution 11ddd965-adc8-4185-8ed9-a60df3006f6f
+Info 2021-06-10 08:59:37: Cleaning up server cache 11ddd965-adc8-4185-8ed9-a60df3006f6f
+Info 2021-06-10 08:59:37: Finished disposing HostJupyterExecution  11ddd965-adc8-4185-8ed9-a60df3006f6f
