@@ -11,7 +11,7 @@ images = []  # Array for collect images
 classNames = []  # Array for collect image name
 encodeListKnown = []
 
-url = 'http://192.168.10.197/cam-hi.jpg'
+url = 'http://192.168.10.111/cam-lo.jpg'
 cap = cv2.VideoCapture(0)
 
 """
